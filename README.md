@@ -1,0 +1,1 @@
+We all must have played "Snake Game" in our childhood, so this program aims at creating the same game but with modern language Python. I have used Tkinter to make the game, after game over, you can press 'r' key to play it again.
